@@ -1,4 +1,4 @@
-<img width="1122" height="1402" alt="cover1" src="https://github.com/user-attachments/assets/2f25bac0-ed5f-49a0-bfa4-0cf2e1230df8" />
+<img width="1000" height="1200" alt="cover1" src="https://github.com/user-attachments/assets/2f25bac0-ed5f-49a0-bfa4-0cf2e1230df8" />
 
 
 # FocusFlow - Vanilla Pomodoro Timer
